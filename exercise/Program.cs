@@ -1,4 +1,5 @@
-﻿/* //задание 2
+﻿ //задание 2
+ /*
     Console.WriteLine("Введите первое число: ");
     int frst = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Введите второе число: ");
@@ -22,6 +23,7 @@
     if (scnd > frst && scnd > thrd) Console.WriteLine("max = " + scnd);
     if (thrd > frst && thrd > scnd) Console.WriteLine("max = " + thrd);
     */
+
     //задание 6
     /*
     Console.WriteLine("Введите число: ");
@@ -31,6 +33,7 @@
     }
     else Console.WriteLine("Число нечетное");
     */
+
     //задание 8
     Console.WriteLine("Введите число: ");
     int frst = Convert.ToInt32(Console.ReadLine());
